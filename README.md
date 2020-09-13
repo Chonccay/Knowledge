@@ -54,7 +54,7 @@ https://www.cnblogs.com/cxq0017/p/10620273.html
 ### C++中动态数组的初始化
 https://blog.csdn.net/Mind_V/article/details/70740354
 ### malloc/free和new/delete
-malloc申请内存失败返回空指针，new申请失败返回异常。
+malloc申请内存失败返回空指针，new申请失败返回异常。  
 https://blog.csdn.net/leikun153/article/details/80612130
 ### C++内存泄露
 https://www.cnblogs.com/liushui-sky/p/7727865.html
@@ -113,112 +113,112 @@ https://www.jianshu.com/p/54e2aeca013b
 https://blog.csdn.net/luyumiao1990/article/details/23951595
  
 # Linux和操作系统考点
-## Linux面试题
+### Linux面试题
 https://blog.csdn.net/ThinkWon/article/details/104588679
-## Linux常用命令
+### Linux常用命令
 https://blog.csdn.net/weixin_44624117/article/details/101368670
-## 线程和进程的区别是什么
+### 线程和进程的区别是什么
 链接：https://www.zhihu.com/question/25532384
-## 进程的常用调度算法
+### 进程的常用调度算法
 https://www.cnblogs.com/szitcast/p/10927375.html
-## 进程的同步方式
+### 进程的同步方式
 https://www.cnblogs.com/Allen-rg/p/7172958.html
-## 线程的同步方式
+### 线程的同步方式
 https://blog.csdn.net/wuhuagu_wuhuaguo/article/details/78591330
-## 多线程的同步和互斥
+### 多线程的同步和互斥
 https://blog.csdn.net/daaikuaichuan/article/details/82950711
-## 信号量、条件变量、互斥量、读写锁
+### 信号量、条件变量、互斥量、读写锁
 https://www.cnblogs.com/lustar/p/7689059.html
-## 互斥锁和自旋锁的选择
+### 互斥锁和自旋锁的选择
 https://blog.csdn.net/dotbefore/article/details/53925524
-## 进程间通信和线程间通信
+### 进程间通信和线程间通信
 https://blog.csdn.net/liyue98/article/details/80112246
-## C++实现condition_variable和unique_lock
+### C++实现condition_variable和unique_lock
 https://blog.csdn.net/qq_28114615/article/details/88379213
-## 进程切换和线程切换
+### 进程切换和线程切换
 https://blog.csdn.net/github_37382319/article/details/97273713
-## 进程上下文切换
+### 进程上下文切换
 https://blog.csdn.net/weixin_30367169/article/details/95156717
-## 孤儿进程和僵尸进程
+### 孤儿进程和僵尸进程
 https://www.jianshu.com/p/f41a7d399086
-## 死锁
+### 死锁
 https://blog.csdn.net/hd12370/article/details/82814348
-## 页面切换算法
+### 页面切换算法
 https://www.jianshu.com/p/18285ecffbfb
-## Linux系统结构
+### Linux系统结构
 https://blog.csdn.net/kai_zone/article/details/80444872
-## 内存五大分区
+### 内存五大分区
 https://blog.csdn.net/Damonvv/article/details/47153461
-## 分区分页分段的管理
+### 分区分页分段的管理
 https://blog.csdn.net/fuzhongmin05/article/details/58061584
-## 中断和异常
+### 中断和异常
 https://blog.csdn.net/qq_29996285/article/details/88078939
-## 如何从用户态切换到内核态
+### 如何从用户态切换到内核态
 https://blog.csdn.net/nwpu_geeker/article/details/79700446
-## 五种IO模型
+### 五种IO模型
 https://www.cnblogs.com/euphie/p/6376508.html
  
 # 计算机网络考点
-## TCP/IP五层模型
+### TCP/IP五层模型
 https://blog.csdn.net/ffsiwei/article/details/82121010
-## TCP和UDP的区别
+### TCP和UDP的区别
 https://zhuanlan.zhihu.com/p/24860273
-## TCP三次握手第三次握手时ACK丢失
+### TCP三次握手第三次握手时ACK丢失
 https://blog.csdn.net/weilijian21/article/details/87165598
-## TCP长连接和短链接的区别
+### TCP长连接和短链接的区别
 https://www.cnblogs.com/onlysun/p/4520553.html
-## 流和数据报的区别
+### 流和数据报的区别
 https://blog.csdn.net/peanutwzk/article/details/79999936
-## TCP流量控制、拥塞控制和差错控制
+### TCP流量控制、拥塞控制和差错控制
 https://blog.csdn.net/tspangle/article/details/45072919
-## HTTP1、HTTP2和HTTPS
+### HTTP1、HTTP2和HTTPS
 https://segmentfault.com/a/1190000015316332
-## ARP协议
+### ARP协议
 https://www.cnblogs.com/kangxi/p/10109271.html
-## ICMP协议
+### ICMP协议
 https://blog.csdn.net/xieyutian1990/article/details/24235887
-## 域名系统DNS
+### 域名系统DNS
 https://www.cnblogs.com/hengzhezou/p/11072165.html
-## A类B类C类子网的划分
+### A类B类C类子网的划分
 https://blog.csdn.net/gui951753/article/details/79412524
-## VLAN之间的通信
+### VLAN之间的通信
 https://blog.csdn.net/pwc1996/article/details/50589248
-## 网关的介绍
+### 网关的介绍
 https://www.sohu.com/a/259848610_100043691
-## 加密算法的总结
+### 加密算法的总结
 https://www.jianshu.com/p/b078282653b3
-## 浏览器输入url
+### 浏览器输入url
 https://segmentfault.com/a/1190000016239579
-## HTTP的get和post
+### HTTP的get和post
 https://www.w3school.com.cn/tags/html_ref_httpmethods.asp
-## Cookie和Session的区别
+### Cookie和Session的区别
 https://www.zhihu.com/question/19786827/answer/84540780
-## 在OSI参考网络模型中主机A向主机B发送一个信息OK的过程
+### 在OSI参考网络模型中主机A向主机B发送一个信息OK的过程
 https://zhidao.baidu.com/question/1305061547951585699.html
-## 交换机和路由器的区别
+### 交换机和路由器的区别
 https://jingyan.baidu.com/article/7908e85cda65e1af481ad2c4.html
-## socket原理讲解
+### socket原理讲解
 https://blog.csdn.net/pashanhu6402/article/details/96428887
  
 # 数据库考点
-## 数据库的增删改查
+### 数据库的增删改查
 https://blog.csdn.net/tswc_byy/article/details/81708728
-## 二叉树、红黑树、B树等概念
+### 二叉树、红黑树、B树等概念
 https://www.cnblogs.com/williamjie/p/11081096.html
-## 二叉树、红黑树、B树的应用场景
+### 二叉树、红黑树、B树的应用场景
 https://www.zhihu.com/question/30527705
-## 数据库存储引擎介绍
+### 数据库存储引擎介绍
 https://blog.csdn.net/qq_27028821/article/details/52267991
-## 聚集索引、非聚集索引、覆盖索引
+### 聚集索引、非聚集索引、覆盖索引
 https://blog.csdn.net/itguangit/article/details/82145322
-## 数据库索引的优缺点
+### 数据库索引的优缺点
 https://blog.csdn.net/u013310119/article/details/52527632
-## 数据库锁的介绍
+### 数据库锁的介绍
 https://blog.csdn.net/weixin_39651041/article/details/79985715
-## 数据库事务和事务的隔离级别
+### 数据库事务和事务的隔离级别
 https://www.cnblogs.com/fjdingsd/p/5273008.html  
 在Oracle，SqlServer中都是选择读已提交作为默认的隔离级别， Mysql选择可重复读作为默认的隔离级别。
-## 数据库设计的三大范式
+### 数据库设计的三大范式
 第一范式：列不可再分   
 第二范式：行可以唯一区分，主键约束   
 第三范式：表的非主属性不能依赖于其他表的非主属性 外键约束  
