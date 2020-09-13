@@ -2,114 +2,114 @@
 ====
 
 # C++考点
-## C++常见面试题解答  
+### C++常见面试题解答  
 https://blog.csdn.net/u012864854/article/details/79777991  
 https://blog.csdn.net/wdzxl198/article/details/9102759  
-## 面向对象和面向过程的区别
+### 面向对象和面向过程的区别
 https://blog.csdn.net/jerry11112/article/details/79027834  
-## C++为什么要面向对象
+### C++为什么要面向对象
 https://www.cnblogs.com/zhuzhenwei918/p/9109917.html
-## 设计模式的六大原则
+### 设计模式的六大原则
 https://www.cnblogs.com/yeya/p/10655760.html
-## C++多态
+### C++多态
 https://www.cnblogs.com/iois/p/4979230.html
-## C++三种继承方式
+### C++三种继承方式
 https://www.dotcpp.com/course/75
-## C语言源代码到可执行程序的过程
+### C语言源代码到可执行程序的过程
 https://www.cnblogs.com/saolv/p/9629148.html
-## C++内联函数
+### C++内联函数
 https://blog.csdn.net/gc348342215/article/details/80295948
-## 虚函数的作用
+### 虚函数的作用
 https://www.zhihu.com/question/23971699?sort=created
-## 哪些函数不能被声明成虚函数？
+### 哪些函数不能被声明成虚函数？
 https://www.cnblogs.com/daryl-blog/p/11003101.html
-## 虚函数表
+### 虚函数表
 https://www.cnblogs.com/li-ning/p/9489967.html
-## 析构函数定义成虚函数
+### 析构函数定义成虚函数
 https://blog.csdn.net/simon_2011/article/details/78091303
-## 指针和引用的区别
+### 指针和引用的区别
 https://blog.csdn.net/weikangc/article/details/49762929
-## 引用传递和值传递的区别
+### 引用传递和值传递的区别
 https://blog.csdn.net/u013130743/article/details/80806179
-## C++函数的参数传递方式
+### C++函数的参数传递方式
 https://www.cnblogs.com/wkfvawl/p/10539084.html
-## printf的实现原理
+### printf的实现原理
 https://kaoshi.china.com/ncre/learning/766635-1.htm
-## C++左值和右值
+### C++左值和右值
 https://www.zhihu.com/question/26203703
-## i++和++i的区别
+### i++和++i的区别
 https://blog.csdn.net/zlhy_/article/details/8349300
-## const和define的区别
+### const和define的区别
 https://blog.csdn.net/sinat_20265495/article/details/52945960
-## C++函数前后加const
+### C++函数前后加const
 https://blog.csdn.net/h593245631/article/details/89452384
-## 指向const对象的指针和const指针
+### 指向const对象的指针和const指针
 https://blog.csdn.net/zhy_cheng/article/details/8047737
-## 几种排序算法和其复杂度
+### 几种排序算法和其复杂度
 https://www.cnblogs.com/XYQ-208910/p/4912879.html
-## 拷贝构造函数、深拷贝浅拷贝
+### 拷贝构造函数、深拷贝浅拷贝
 https://www.cnblogs.com/alantu2018/p/8459250.html
-## 拷贝构造函数和拷贝赋值运算符
+### 拷贝构造函数和拷贝赋值运算符
 https://www.cnblogs.com/cxq0017/p/10620273.html
-## C++中动态数组的初始化
+### C++中动态数组的初始化
 https://blog.csdn.net/Mind_V/article/details/70740354
-## malloc/free和new/delete
+### malloc/free和new/delete
 malloc申请内存失败返回空指针，new申请失败返回异常。
 https://blog.csdn.net/leikun153/article/details/80612130
-## C++内存泄露
+### C++内存泄露
 https://www.cnblogs.com/liushui-sky/p/7727865.html
-## vector内存生长方式
+### vector内存生长方式
 https://blog.csdn.net/qq_26849233/article/details/70738621
-## vector的内存分配和释放
+### vector的内存分配和释放
 https://www.cnblogs.com/biyeymyhjob/archive/2012/09/12/2674004.html
-## 大端模式、小端模式
+### 大端模式、小端模式
 https://blog.csdn.net/zhaoshuzhaoshu/article/details/37600857
-## C++锁的实现
+### C++锁的实现
 https://www.cnblogs.com/fenghualong/p/11568398.html
-## C++移动语义和完美转发
+### C++移动语义和完美转发
 https://blog.csdn.net/zwvista/article/details/6848582
-## C++11智能指针
+### C++11智能指针
 https://www.cnblogs.com/WindSun/p/11444429.html
-## 代码规范
+### 代码规范
 https://blog.csdn.net/Ms_yjk/article/details/84173301
-## C++类的this指针
+### C++类的this指针
 https://www.cnblogs.com/umbrella-panda/articles/9170667.html
-## 使用模板类的好处
-1：可用来创建动态增加或减少的数据结构
-2：它与某种特定类型无关，因此代码可重复使用
-3：它在编译时检查数据类型而不是运行时检查数据类型，保证了类型的安全
-4：它是平台无关的，具有很好的移植性
-## C++中 . 和 -> 的区别
+### 使用模板类的好处
+1：可用来创建动态增加或减少的数据结构    
+2：它与某种特定类型无关，因此代码可重复使用  
+3：它在编译时检查数据类型而不是运行时检查数据类型，保证了类型的安全  
+4：它是平台无关的，具有很好的移植性  
+### C++中 . 和 -> 的区别
 https://zhidao.baidu.com/question/143290358.html
-## void和void*的区别
+### void和void*的区别
 https://blog.csdn.net/oDianZi1234567/article/details/82694228
-## C++回调函数
+### C++回调函数
 https://blog.csdn.net/yidu_fanchen/article/details/80513359
-## C++左值引用和右值引用
+### C++左值引用和右值引用
 https://blog.csdn.net/u012198575/article/details/83142419
-## 结构体内存对齐的原则
+### 结构体内存对齐的原则
 https://www.zhihu.com/question/27862634
-## C++运算符重载
+### C++运算符重载
 https://blog.csdn.net/jacket_/article/details/89714947
-## C++ txt文件读取和写入
+### C++ txt文件读取和写入
 https://blog.csdn.net/lz20120808/article/details/49622787
-## extern “C”的使用
+### extern “C”的使用
 https://blog.csdn.net/u013616945/article/details/75330936
-## explicit关键字的使用
+### explicit关键字的使用
 https://www.cnblogs.com/gklovexixi/p/5622681.html
-## auto和decltyle关键字
+### auto和decltyle关键字
 http://c.biancheng.net/view/438.html
-## volitile关键字
+### volitile关键字
 https://www.cnblogs.com/lixiaolun/p/8274212.html
-## 运算符优先级
+### 运算符优先级
 https://blog.csdn.net/huangblog/article/details/8271791
-## 哈希冲突及解决办法
+### 哈希冲突及解决办法
 https://www.cnblogs.com/higerMan/p/11907117.html
-## 七大排序算法及总结
+### 七大排序算法及总结
 https://blog.csdn.net/hust_lmj/article/details/79058542
-## 编译型语言和解释型语言
+### 编译型语言和解释型语言
 https://www.jianshu.com/p/54e2aeca013b
-## C++中类的占用内存大小
+### C++中类的占用内存大小
 https://blog.csdn.net/luyumiao1990/article/details/23951595
  
 # Linux和操作系统考点
@@ -216,13 +216,13 @@ https://blog.csdn.net/u013310119/article/details/52527632
 ## 数据库锁的介绍
 https://blog.csdn.net/weixin_39651041/article/details/79985715
 ## 数据库事务和事务的隔离级别
-https://www.cnblogs.com/fjdingsd/p/5273008.html
+https://www.cnblogs.com/fjdingsd/p/5273008.html  
 在Oracle，SqlServer中都是选择读已提交作为默认的隔离级别， Mysql选择可重复读作为默认的隔离级别。
 ## 数据库设计的三大范式
-第一范式：列不可再分 
-第二范式：行可以唯一区分，主键约束 
-第三范式：表的非主属性不能依赖于其他表的非主属性 外键约束
-三大范式是一级一级依赖的，第二范式建立在第一范式上，第三范式建立第一第二范式上
+第一范式：列不可再分   
+第二范式：行可以唯一区分，主键约束   
+第三范式：表的非主属性不能依赖于其他表的非主属性 外键约束  
+三大范式是一级一级依赖的，第二范式建立在第一范式上，第三范式建立第一第二范式上  
 https://www.cnblogs.com/linjiqin/archive/2012/04/01/2428695.html
 
 
