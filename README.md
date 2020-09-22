@@ -15,6 +15,8 @@ https://blog.csdn.net/jerry11112/article/details/79027834
 https://www.cnblogs.com/zhuzhenwei918/p/9109917.html
 ### 设计模式的六大原则
 https://www.cnblogs.com/yeya/p/10655760.html
+### 单例模式的C++实现  
+https://blog.csdn.net/u012940886/article/details/80386669
 ### C++多态
 https://www.cnblogs.com/iois/p/4979230.html
 ### C++三种继承方式
