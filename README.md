@@ -155,6 +155,8 @@ https://www.jianshu.com/p/18285ecffbfb
 https://blog.csdn.net/kai_zone/article/details/80444872
 ### 内存五大分区
 https://blog.csdn.net/Damonvv/article/details/47153461
+### 进程的内存分布
+https://www.cnblogs.com/Joke-Shi/p/5718447.html
 ### 分区分页分段的管理
 https://blog.csdn.net/fuzhongmin05/article/details/58061584
 ### 中断和异常
