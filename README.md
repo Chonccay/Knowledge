@@ -58,8 +58,8 @@ https://www.cnblogs.com/alantu2018/p/8459250.html
 ### 拷贝构造函数和拷贝赋值运算符
 https://www.cnblogs.com/cxq0017/p/10620273.html
 ### C++中动态数组的初始化
-https://blog.csdn.net/Mind_V/article/details/70740354  
-### malloc/free和new/delete
+https://blog.csdn.net/Mind_V/article/details/70740354
+### malloc/free和new/delete    
 malloc申请内存失败返回空指针，new申请失败返回异常。  
 https://blog.csdn.net/leikun153/article/details/80612130
 ### C++内存泄露
